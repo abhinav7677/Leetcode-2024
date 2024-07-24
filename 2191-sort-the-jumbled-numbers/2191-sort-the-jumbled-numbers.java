@@ -1,6 +1,6 @@
 class Solution {
 
-    //https://www.youtube.com/watch?v=QvJZESh_YxM
+    
     public int[] sortJumbled(int[] mapping, int[] nums) {
         int n = nums.length;
         int[] newSysArray = createNewSystemArray(mapping, nums);
